@@ -2,4 +2,4 @@
 name=nginx
 gpgcheck=0
 enabled=0
-baseurl=http://nginx.org/packages/mainline/centos/7/x86_64/
+baseurl=http://nginx.org/packages/mainline/centos/8/$basearch/
